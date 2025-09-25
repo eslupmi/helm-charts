@@ -4,6 +4,40 @@ entries:
   - annotations:
       artifacthub.io/images: |
         - name: impulse
+          image: ghcr.io/eslupmi/impulse:v0.0.3
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/eslupmi/impulse
+        - name: Documentation
+          url: https://docs.impulse.bot
+    apiVersion: v2
+    appVersion: v0.0.3
+    created: "2025-09-25T12:04:22.216743827Z"
+    description: A Helm chart for Impulse - Incident Management Program
+    digest: 0503ed3f4f4254af8343c3b288b1e9c992abad410cabe94b510eba7eb6ab0b1c
+    home: https://artifacthub.io/packages/helm/eslupmi/impulse
+    keywords:
+    - incident-management
+    - alerting
+    - slack
+    - mattermost
+    - telegram
+    kubeVersion: '>=1.12.0-0'
+    maintainers:
+    - email: artyom.vershinin@icloud.com
+      name: Artem Vershinin
+    - email: tsibous14@gmail.com
+      name: Dmitry Tsybus
+    name: impulse
+    sources:
+    - https://github.com/eslupmi/impulse
+    type: application
+    urls:
+    - https://eslupmi.github.io/helm-charts/packages/impulse-v0.0.3.tgz
+    version: v0.0.3
+  - annotations:
+      artifacthub.io/images: |
+        - name: impulse
           image: ghcr.io/eslupmi/impulse:0.0.2
       artifacthub.io/links: |
         - name: Source Code
@@ -12,7 +46,7 @@ entries:
           url: https://docs.impulse.bot
     apiVersion: v2
     appVersion: 0.0.2
-    created: "2025-09-25T10:51:22.958878424Z"
+    created: "2025-09-25T12:04:22.21602845Z"
     description: A Helm chart for Impulse - Incident Management Program
     digest: 71f84ceb4008547ba75ba991afb6bd5b8e28d45b4f23e4411bcdbb675af81220
     home: https://artifacthub.io/packages/helm/eslupmi/impulse
@@ -33,6 +67,6 @@ entries:
     - https://github.com/eslupmi/impulse
     type: application
     urls:
-    - https://eslupmi.github.io/packages/impulse-0.0.2.tgz
+    - https://eslupmi.github.io/helm-charts/packages/impulse-0.0.2.tgz
     version: 0.0.2
-generated: "2025-09-25T10:51:22.957233668Z"
+generated: "2025-09-25T12:04:22.21521518Z"

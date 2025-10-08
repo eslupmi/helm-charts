@@ -4,6 +4,42 @@ entries:
   - annotations:
       artifacthub.io/images: |
         - name: impulse
+          image: ghcr.io/eslupmi/impulse:v3.0.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/eslupmi/impulse
+        - name: Documentation
+          url: https://docs.impulse.bot
+      artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
+    apiVersion: v2
+    appVersion: v3.0.0
+    created: "2025-10-08T10:08:58.97610327Z"
+    description: A Helm chart for IMPulse
+    digest: e39b62ed5e85e17966c0624a2acc7ade3c7136bcf1cbd50a6acaff3e9dd239ce
+    home: https://artifacthub.io/packages/helm/eslupmi/impulse
+    icon: https://raw.githubusercontent.com/eslupmi/impulse/refs/heads/develop/logo.svg
+    keywords:
+    - incident-management
+    - alerting
+    - slack
+    - mattermost
+    - telegram
+    kubeVersion: '>=1.12.0-0'
+    maintainers:
+    - email: artyom.vershinin@icloud.com
+      name: Artem Vershinin
+    - email: tsibous14@gmail.com
+      name: Dmitry Tsybus
+    name: impulse
+    sources:
+    - https://github.com/eslupmi/impulse
+    type: application
+    urls:
+    - https://eslupmi.github.io/helm-charts/packages/impulse-v0.0.4.tgz
+    version: v0.0.4
+  - annotations:
+      artifacthub.io/images: |
+        - name: impulse
           image: ghcr.io/eslupmi/impulse:v0.0.3
       artifacthub.io/links: |
         - name: Source Code
@@ -12,7 +48,7 @@ entries:
           url: https://docs.impulse.bot
     apiVersion: v2
     appVersion: v0.0.3
-    created: "2025-09-25T12:04:22.216743827Z"
+    created: "2025-10-08T10:08:58.975456769Z"
     description: A Helm chart for Impulse - Incident Management Program
     digest: 0503ed3f4f4254af8343c3b288b1e9c992abad410cabe94b510eba7eb6ab0b1c
     home: https://artifacthub.io/packages/helm/eslupmi/impulse
@@ -35,4 +71,4 @@ entries:
     urls:
     - https://eslupmi.github.io/helm-charts/packages/impulse-v0.0.3.tgz
     version: v0.0.3
-generated: "2025-09-25T12:04:22.21521518Z"
+generated: "2025-10-08T10:08:58.974630753Z"

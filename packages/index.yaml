@@ -13,9 +13,9 @@ entries:
       artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
     apiVersion: v2
     appVersion: v3.1.0
-    created: "2025-10-28T09:05:32.967677093Z"
+    created: "2025-10-28T09:06:43.426546212Z"
     description: A Helm chart for IMPulse
-    digest: 78025517c5085afca5de33fcc96d062eeee92d1c51a47a61d76ab9ca3620be8c
+    digest: 75a94517ee0465f1f68d887f10caf2a9dd9045933fbdb7ba0012308b58ba99ca
     home: https://artifacthub.io/packages/helm/impulse/impulse
     icon: https://raw.githubusercontent.com/eslupmi/impulse/refs/heads/develop/logo.svg
     keywords:
@@ -49,7 +49,7 @@ entries:
       artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
     apiVersion: v2
     appVersion: v3.0.1
-    created: "2025-10-28T09:05:32.967046476Z"
+    created: "2025-10-28T09:06:43.425906931Z"
     description: A Helm chart for IMPulse
     digest: bfa86ad54d1eb582aae3c7f555bea9ec09ca210a6b3bb829bd0a0e8322fff5d7
     home: https://artifacthub.io/packages/helm/impulse/impulse
@@ -85,7 +85,7 @@ entries:
       artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
     apiVersion: v2
     appVersion: v3.0.0
-    created: "2025-10-28T09:05:32.966411731Z"
+    created: "2025-10-28T09:06:43.42521969Z"
     description: A Helm chart for IMPulse
     digest: 7ca8f2696ac4765096d93cf09023c0ad87dba0fc714a27aff086658eb0a880b0
     home: https://artifacthub.io/packages/helm/impulse/impulse
@@ -121,7 +121,7 @@ entries:
       artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
     apiVersion: v2
     appVersion: v3.0.0
-    created: "2025-10-28T09:05:32.965759974Z"
+    created: "2025-10-28T09:06:43.424588564Z"
     description: A Helm chart for IMPulse
     digest: e390589b4860bfbbfebae521360b13c3ffbfb75779ffbfc273473a3caa55358c
     home: https://artifacthub.io/packages/helm/impulse/impulse
@@ -157,7 +157,7 @@ entries:
       artifacthub.io/repositoryID: 8463be1d-2ded-4e14-b15c-2be5820ff537
     apiVersion: v2
     appVersion: v3.0.0
-    created: "2025-10-28T09:05:32.965030802Z"
+    created: "2025-10-28T09:06:43.423900632Z"
     description: A Helm chart for IMPulse
     digest: 3571c50bbabf10307930fd90a89ffcada0ba7baaf29af8c2265f6fb346b8dd81
     home: https://artifacthub.io/packages/helm/eslupmi/impulse
@@ -181,4 +181,4 @@ entries:
     urls:
     - https://eslupmi.github.io/helm-charts/packages/impulse-v1.0.0.tgz
     version: v1.0.0
-generated: "2025-10-28T09:05:32.964211092Z"
+generated: "2025-10-28T09:06:43.42221726Z"
